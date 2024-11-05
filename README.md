@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Application Developer
 ----------------------------
 
-Turning app idea to reality.
+Turning app idea into reality.
 
 * 🌍  I'm based in Nepal
 * 🖥️  See my portfolio at [portfolio](http://gpandeya.com.np)
 * ✉️  You can contact me at [gajendrapandeya6@gmail.com](mailto:gajendrapandeya6@gmail.com)
-* 🧠  I'm learning Node, Native Ios and animations.
+
 
 <a href="https://www.github.com/gajendrapandeya" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/gajendrapandeya?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
